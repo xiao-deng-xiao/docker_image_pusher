@@ -1,2 +1,4 @@
 mysql:8.0.20
 nginx
+redis:6.2.7
+Sentinel:1.8.4
